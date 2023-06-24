@@ -8,9 +8,9 @@
 
 ### Temporary Email Services
 
-- [Guerilla Mail](https://www.guerrillamail.com) - Free; Storage: 1 hour; Features: API, multiple domains; send emails with attachments. ([GitHub](https://github.com/flashmob/GuerrillaMail))
-- [Email Generator](https://generator.email) - Free; Features: multiple domains, custom domains.
-- [Inboxkitten](https://inboxkitten.com) - Free; Storage: for several hours. ([GitHub](https://github.com/uilicious/inboxkitten))
+- [Guerilla Mail](https://www.guerrillamail.com) - Free; Storage: 1 hour; Features: API, multiple domains, **sending emails with attachments**. ([GitHub]())
+- [Email Generator](https://generator.email) - Free; Features: multiple domains, **custom domains**.
+- [Inboxkitten](https://inboxkitten.com) - Free; Storage: for 3 hours. ([GitHub](https://github.com/uilicious/inboxkitten))
 - [Fake Mail Generator](https://www.fakemailgenerator.com) - Free; Storage: 24 hours; Features: multiple domains. ([de](https://www.wegwerfemailadresse.com), [fr](https://www.adresseemailtemporaire.com), [es](https://www.emailtemporalgratis.com), [it](https://www.emailtemporanea.org))
 - [FakeMail](https://www.fakemail.net) - Free; Storage: 2 weeks.
 - [Hour.email](https://hour.email) - Free; Storage: 1 hour.
@@ -20,6 +20,7 @@
 
 - [Inboxkitten](https://github.com/uilicious/inboxkitten) - Disposable email service using Mailgun API. ([Demo](https://inboxkitten.com)) `MIT License` `Javascript`
 - [Maildrop](https://gitlab.com/markbeeson/maildrop) - Temporary inbox using Haraka SMTP server. ([Demo](https://maildrop.cc))  `MIT License`
+- [Guerilla Mail](https://github.com/flashmob/GuerrillaMail) - ([Demo](https://www.guerrillamail.com)) 
 
 ## Email Forwarding
 
