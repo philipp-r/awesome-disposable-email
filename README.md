@@ -8,13 +8,14 @@
 
 ### Temporary Email Services
 
-- [Guerilla Mail](https://www.guerrillamail.com) - Free; Storage: 1 hour; Features: API, multiple domains, **sending emails with attachments**. ([GitHub]())
+- [Guerilla Mail](https://www.guerrillamail.com) - Free; Storage: 1 hour; Features: API, multiple domains, **sending emails with attachments**.
+- [NoEmail.cc](https://noemail.cc) - Free; Storage: 24 hours; Features: multiple domains.
 - [Email Generator](https://generator.email) - Free; Features: multiple domains, **custom domains**.
-- [Inboxkitten](https://inboxkitten.com) - Free; Storage: for 3 hours. ([GitHub](https://github.com/uilicious/inboxkitten))
+- [Inboxkitten](https://inboxkitten.com) - Free; Storage: for 3 hours.
 - [Fake Mail Generator](https://www.fakemailgenerator.com) - Free; Storage: 24 hours; Features: multiple domains. ([de](https://www.wegwerfemailadresse.com), [fr](https://www.adresseemailtemporaire.com), [es](https://www.emailtemporalgratis.com), [it](https://www.emailtemporanea.org))
-- [FakeMail](https://www.fakemail.net) - Free; Storage: 2 weeks.
 - [Hour.email](https://hour.email) - Free; Storage: 1 hour.
-- [Maildrop](https://maildrop.cc) - Free. ([GitLab](https://gitlab.com/markbeeson/maildrop))
+- [FakeMail](https://www.fakemail.net) - Free; Storage: 2 weeks.
+- [Maildrop](https://maildrop.cc) - Free. 
 
 ### Open Source Software
 
@@ -42,10 +43,6 @@
 
 - [Mailcheck](https://www.mailcheck.ai) - API to check if an email address is a known disposable email address.
 - [Track Awesome List](https://www.trackawesomelist.com) - Get the latest updates.
-
-## Contributing
-
-Contributing guidelines can be found in [.github/CONTRIBUTING.md](.github/CONTRIBUTING.md).
 
 ## License
 
