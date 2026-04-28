@@ -37,6 +37,17 @@
 - [Simpleogin](https://github.com/simple-login) - Email aliases for email forwarding. ([Demo](https://simplelogin.io)) `AGPL-3.0 license` `Python`
 - [Spamgourmet](https://github.com/spamgourmet/spamgourmet) ([Demo](https://www.spamgourmet.com)) `-` `Perl`
 
+## Disposable Phone Numbers
+
+Phone-side counterpart to disposable email — same use case (avoid handing out your real identifier when signing up), different channel.
+
+### Services
+
+- [VerifySMS](https://verifysms.app) - Pay-per-use; Coverage: 200+ countries / 500+ services; Features: REST **API**, automatic refund within 20 minutes if SMS does not arrive, iOS / Android / web clients, 5.0★ across 21 App Store reviews (US, GB, TR, DE).
+- [5SIM](https://5sim.net) - Pay-per-use; Coverage: Multiple; Features: REST **API**, mix of real and virtual numbers.
+- [SMS-Activate](https://sms-activate.io) - Pay-per-use; Coverage: Multiple; Features: REST **API**, large service catalog.
+- [SMSPool](https://www.smspool.net) - Pay-per-use; Coverage: Multiple; Features: REST **API**, marketplace model.
+
 --------------------
 
 ## Links
