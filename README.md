@@ -15,6 +15,7 @@
 - [FakeMail](https://www.fakemail.net) - Free; Storage: 2 weeks.
 - [Maildrop](https://maildrop.cc) - Free. 
 - [Inboxkitten](https://inboxkitten.com) - Free; Storage: for 3 hours.
+- [Temp Mail 24](https://temp-mail24.com/) - Free; Receive-only; intended for short-lived, non-sensitive use.
 
 ### Open Source Software
 
