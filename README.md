@@ -15,6 +15,7 @@
 - [FakeMail](https://www.fakemail.net) - Free; Storage: 2 weeks.
 - [Maildrop](https://maildrop.cc) - Free. 
 - [Inboxkitten](https://inboxkitten.com) - Free; Storage: for 3 hours.
+- [Mailfo](https://mailfo.pages.dev) - Free; Features: **Android app**, disposable temporary inboxes, clean privacy-focused email & OTP receiver. ([Google Play](https://play.google.com/store/apps/details?id=com.mailfo.tmailapp))
 
 ### Open Source Software
 
