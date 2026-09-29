@@ -16,6 +16,7 @@
 - [Maildrop](https://maildrop.cc) - Free. 
 - [Inboxkitten](https://inboxkitten.com) - Free; Storage: for 3 hours.
 - [Temp Mail 24](https://temp-mail24.com/) - Free; Receive-only; intended for short-lived, non-sensitive use.
+- [9mail](https://9mail.xyz) - Free; Storage: 1 hour; Features: multiple domains, no registration, receive-only. ([id](https://9mail.xyz/id))`
 
 ### Open Source Software
 
