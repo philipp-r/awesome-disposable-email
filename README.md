@@ -14,12 +14,12 @@
 - [Fake Mail Generator](https://www.fakemailgenerator.com) - Free; Storage: 24 hours; Features: multiple domains. ([de](https://www.wegwerfemailadresse.com), [fr](https://www.adresseemailtemporaire.com), [es](https://www.emailtemporalgratis.com), [it](https://www.emailtemporanea.org))
 - [FakeMail](https://www.fakemail.net) - Free; Storage: 2 weeks.
 - [Maildrop](https://maildrop.cc) - Free. 
-- [MailSink](https://mailsink.dev) - Free/paid; Storage: 1 hour (free) to 7 days (paid); Features: **API**, **MCP server**, OTP and verification-link extraction, built for QA and AI agents.
+- [MailSink](https://mailsink.dev) - Free/paid; Storage: 1 hour (free) to 7 days (paid); Features: **API**, **MCP server**, OTP and verification-link extraction, **built for QA and AI agents**.
 - [Inboxkitten](https://inboxkitten.com) - Free; Storage: for 3 hours.
 - [NukeMail](https://nukemail.app) - Free/paid; Storage: 24 hours (free), unlimited (paid); Features: **custom usernames**, multiple domains, **access code for inbox recovery from any device**, no tracking.
 - [Temp Mail 24](https://temp-mail24.com/) - Free; Receive-only; intended for short-lived, non-sensitive use.
 - [9mail](https://9mail.xyz) - Free; Storage: 1 hour; Features: multiple domains, no registration, receive-only. ([id](https://9mail.xyz/id))
-- [FreeCustom.Email](https://www.freecustom.email) - Free; Storage - 10 hours; Features: multiple domains, Ad-free, no limits.
+- [FreeCustom.Email](https://www.freecustom.email) - Free; Storage: 10 hours; Features: multiple domains, **Ad-free**.
 
 ### Open Source Software
 
@@ -33,7 +33,7 @@
 
 - [AnonAddy](https://anonaddy.com) - Free/paid; Features: **unlimited aliases**, **API**, custom domain (paid). ([GitHub](https://github.com/anonaddy/anonaddy))
 - [SimpleLogin](https://simplelogin.io) - Free/paid; Features: 10 aliases, custom domain (paid). ([GitHub](https://github.com/simple-login))
-- [NoEmail.cc](https://noemail.cc) - Free; Features: one alias, multiple domains.
+- [NoEmail.cc](https://noemail.cc/fwd) - Free; Features: one alias, multiple domains.
 - [Shitmail](https://www.shitmail.org) - Free; Up to 3 months.
 
 ### Open Source Software
@@ -48,10 +48,11 @@ Phone-side counterpart to disposable email — same use case (avoid handing out 
 
 ### Services
 
-- [VerifySMS](https://verifysms.app) - Pay-per-use; Coverage: 200+ countries / 500+ services; Features: REST **API**, automatic refund within 20 minutes if SMS does not arrive, iOS / Android / web clients, 5.0★ across 21 App Store reviews (US, GB, TR, DE).
-- [5SIM](https://5sim.net) - Pay-per-use; Coverage: Multiple; Features: REST **API**, mix of real and virtual numbers.
+- [VerifySMS](https://verifysms.app) - Pay-per-use (from USD 0.10); Coverage: 200+ countries / 500+ services; Features: REST **API**, automatic refund within 20 minutes if SMS does not arrive; iOS & Android App.
+- [5SIM](https://5sim.net) - Pay-per-use (from USD 0.01); Coverage: Multiple; Features: REST **API**, mix of real and virtual numbers.
 - [SMS-Activate](https://sms-activate.io) - Pay-per-use; Coverage: Multiple; Features: REST **API**, large service catalog.
 - [SMSPool](https://www.smspool.net) - Pay-per-use; Coverage: Multiple; Features: REST **API**, marketplace model.
+- [V Numbers](https://v-numbers.com/) - Pay-per-use.
 
 --------------------
 
