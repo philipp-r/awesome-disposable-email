@@ -14,9 +14,10 @@
 - [Fake Mail Generator](https://www.fakemailgenerator.com) - Free; Storage: 24 hours; Features: multiple domains. ([de](https://www.wegwerfemailadresse.com), [fr](https://www.adresseemailtemporaire.com), [es](https://www.emailtemporalgratis.com), [it](https://www.emailtemporanea.org))
 - [FakeMail](https://www.fakemail.net) - Free; Storage: 2 weeks.
 - [Maildrop](https://maildrop.cc) - Free. 
+- [MailSink](https://mailsink.dev) - Free/paid; Storage: 1 hour (free) to 7 days (paid); Features: **API**, **MCP server**, OTP and verification-link extraction, built for QA and AI agents.
 - [Inboxkitten](https://inboxkitten.com) - Free; Storage: for 3 hours.
 - [NukeMail](https://nukemail.app) - Free/paid; Storage: 24 hours (free), unlimited (paid); Features: **custom usernames**, multiple domains, **access code for inbox recovery from any device**, no tracking.
-
+- [9mail](https://9mail.xyz) - Free; Storage: 1 hour; Features: multiple domains, no registration, receive-only. ([id](https://9mail.xyz/id))`
 
 ### Open Source Software
 
