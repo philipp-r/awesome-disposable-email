@@ -16,6 +16,7 @@
 - [Maildrop](https://maildrop.cc) - Free. 
 - [MailSink](https://mailsink.dev) - Free/paid; Storage: 1 hour (free) to 7 days (paid); Features: **API**, **MCP server**, OTP and verification-link extraction, built for QA and AI agents.
 - [Inboxkitten](https://inboxkitten.com) - Free; Storage: for 3 hours.
+- [NukeMail](https://nukemail.app) - Free/paid; Storage: 24 hours (free), unlimited (paid); Features: **custom usernames**, multiple domains, **access code for inbox recovery from any device**, no tracking.
 - [Temp Mail 24](https://temp-mail24.com/) - Free; Receive-only; intended for short-lived, non-sensitive use.
 - [9mail](https://9mail.xyz) - Free; Storage: 1 hour; Features: multiple domains, no registration, receive-only. ([id](https://9mail.xyz/id))`
 
