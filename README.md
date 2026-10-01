@@ -19,6 +19,7 @@
 - [NukeMail](https://nukemail.app) - Free/paid; Storage: 24 hours (free), unlimited (paid); Features: **custom usernames**, multiple domains, **access code for inbox recovery from any device**, no tracking.
 - [Temp Mail 24](https://temp-mail24.com/) - Free; Receive-only; intended for short-lived, non-sensitive use.
 - [9mail](https://9mail.xyz) - Free; Storage: 1 hour; Features: multiple domains, no registration, receive-only. ([id](https://9mail.xyz/id))
+- [8½ Minute Mail](https://8m30mail.com/) - Free; Storage: 8 minutes 30 seconds; Features: no registration, OTP and Magic Link extraction, receive-only.
 - [FreeCustom.Email](https://www.freecustom.email) - Free; Storage: 10 hours; Features: multiple domains, **Ad-free**.
 
 ### Open Source Software
