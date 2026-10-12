@@ -20,6 +20,7 @@
 - [Temp Mail 24](https://temp-mail24.com/) - Free; Receive-only; intended for short-lived, non-sensitive use.
 - [9mail](https://9mail.xyz) - Free; Storage: 1 hour; Features: multiple domains, no registration, receive-only. ([id](https://9mail.xyz/id))
 - [FreeCustom.Email](https://www.freecustom.email) - Free; Storage: 10 hours; Features: multiple domains, **Ad-free**.
+- [TempMail Hub](https://tempmailhub.net/) - Free; Storage: selectable 10 min to 7 days; Features: 30 languages, Telegram bot, HTML-safe viewer.
 
 ### Open Source Software
 
