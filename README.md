@@ -18,6 +18,7 @@
 - [Inboxkitten](https://inboxkitten.com) - Free; Storage: for 3 hours.
 - [NukeMail](https://nukemail.app) - Free/paid; Storage: 24 hours (free), unlimited (paid); Features: **custom usernames**, multiple domains, **access code for inbox recovery from any device**, no tracking.
 - [Temp Mail 24](https://temp-mail24.com/) - Free; Receive-only; intended for short-lived, non-sensitive use.
+- [TempMail10min](https://temp-mail10min.online/) - Free; Storage: 5 to 30 minutes; Features: instant disposable email, OTP verification, auto-destruct inboxes, zero logs.
 - [9mail](https://9mail.xyz) - Free; Storage: 1 hour; Features: multiple domains, no registration, receive-only. ([id](https://9mail.xyz/id))
 - [FreeCustom.Email](https://www.freecustom.email) - Free; Storage: 10 hours; Features: multiple domains, **Ad-free**.
 
