@@ -59,6 +59,7 @@ Phone-side counterpart to disposable email — same use case (avoid handing out 
 ## Links
 
 - [Mailcheck](https://www.mailcheck.ai) - API to check if an email address is a known disposable email address.
+- [disposable-list-audit](https://github.com/yasaiiko/disposable-list-audit) - Weekly check of which open disposable-email blocklists also block forwarding/relay services (SimpleLogin, addy.io, Firefox Relay, DuckDuckGo, Apple Hide My Email).
 - [Track Awesome List](https://www.trackawesomelist.com) - Get the latest updates.
 
 ## License
