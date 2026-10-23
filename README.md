@@ -21,6 +21,7 @@
 - [9mail](https://9mail.xyz) - Free; Storage: 1 hour; Features: multiple domains, no registration, receive-only. ([id](https://9mail.xyz/id))
 - [8½ Minute Mail](https://8m30mail.com/) - Free; Storage: 8 minutes 30 seconds; Features: no registration, OTP and Magic Link extraction, receive-only.
 - [FreeCustom.Email](https://www.freecustom.email) - Free; Storage: 10 hours; Features: multiple domains, **Ad-free**.
+- [TempMail Hub](https://tempmailhub.net/) - Free; Storage: selectable 10 min to 7 days; Features: 30 languages, Telegram bot, HTML-safe viewer.
 
 ### Open Source Software
 
