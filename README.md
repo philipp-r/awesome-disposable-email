@@ -29,6 +29,7 @@
 - [Inboxkitten](https://github.com/uilicious/inboxkitten) - Disposable email service using Mailgun API. ([Demo](https://inboxkitten.com)) `MIT License` `Javascript`
 - [Maildrop](https://gitlab.com/markbeeson/maildrop) - Temporary inbox using Haraka SMTP server. ([Demo](https://maildrop.cc)) `MIT License` `Typescript`
 - [Guerilla Mail](https://github.com/flashmob/GuerrillaMail) - Library for GuerrillaMail ([Demo](https://www.guerrillamail.com)) `MIT License` `PHP`
+- [Maily](https://github.com/stormsia/maily) - Universal temporary email gateway aggregating 8+ disposable providers into a unified REST API and dark-mode console. ([Docs](https://stormsia.github.io/maily/)) `MIT License` `Python`
 
 ## Email Forwarding
 
