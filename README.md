@@ -23,6 +23,7 @@
 - [8½ Minute Mail](https://8m30mail.com/) - Free; Storage: 8 minutes 30 seconds; Features: no registration, OTP and Magic Link extraction, receive-only.
 - [FreeCustom.Email](https://www.freecustom.email) - Free; Storage: 10 hours; Features: multiple domains, **Ad-free**.
 - [TempMail Hub](https://tempmailhub.net/) - Free; Storage: selectable 10 min to 7 days; Features: 30 languages, Telegram bot, HTML-safe viewer.
+- [GhosterMail](https://ghostermail.com) - Free/paid; Storage: until you delete the mailbox; Features: free account required, **API**, **MCP server**, **sending emails**, up to 60 mailboxes in one click, 16 languages.
 
 ### Open Source Software
 
