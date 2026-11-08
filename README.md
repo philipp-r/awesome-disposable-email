@@ -24,12 +24,14 @@
 - [FreeCustom.Email](https://www.freecustom.email) - Free; Storage: 10 hours; Features: multiple domains, **Ad-free**.
 - [TempMail Hub](https://tempmailhub.net/) - Free; Storage: selectable 10 min to 7 days; Features: 30 languages, Telegram bot, HTML-safe viewer.
 - [GhosterMail](https://ghostermail.com) - Free/paid; Storage: until you delete the mailbox; Features: free account required, **API**, **MCP server**, **sending emails**, up to 60 mailboxes in one click, 16 languages.
+- [Ghostmails](https://ghostmails.cc) - Free; Storage: 1 hour, extendable to 24 hours; Features: attachments, no registration, receive-only, 10 languages.
 
 ### Open Source Software
 
 - [Inboxkitten](https://github.com/uilicious/inboxkitten) - Disposable email service using Mailgun API. ([Demo](https://inboxkitten.com)) `MIT License` `Javascript`
 - [Maildrop](https://gitlab.com/markbeeson/maildrop) - Temporary inbox using Haraka SMTP server. ([Demo](https://maildrop.cc)) `MIT License` `Typescript`
 - [Guerilla Mail](https://github.com/flashmob/GuerrillaMail) - Library for GuerrillaMail ([Demo](https://www.guerrillamail.com)) `MIT License` `PHP`
+- [Maily](https://github.com/stormsia/maily) - Universal temporary email gateway aggregating 8+ disposable providers into a unified REST API and dark-mode console. ([Docs](https://stormsia.github.io/maily/)) `MIT License` `Python`
 
 ## Email Forwarding
 
@@ -64,6 +66,7 @@ Phone-side counterpart to disposable email — same use case (avoid handing out 
 
 - [Mailcheck](https://www.mailcheck.ai) - API to check if an email address is a known disposable email address.
 - [disposable-list-audit](https://github.com/yasaiiko/disposable-list-audit) - Weekly check of which open disposable-email blocklists also block forwarding/relay services (SimpleLogin, addy.io, Firefox Relay, DuckDuckGo, Apple Hide My Email).
+- [Disposable Email Checker](https://ghostmails.cc/disposable-email-checker) - Checks a domain against three open disposable-email blocklists, entirely in the browser.
 - [Track Awesome List](https://www.trackawesomelist.com) - Get the latest updates.
 
 ## License
