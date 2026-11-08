@@ -23,6 +23,7 @@
 - [8½ Minute Mail](https://8m30mail.com/) - Free; Storage: 8 minutes 30 seconds; Features: no registration, OTP and Magic Link extraction, receive-only.
 - [FreeCustom.Email](https://www.freecustom.email) - Free; Storage: 10 hours; Features: multiple domains, **Ad-free**.
 - [TempMail Hub](https://tempmailhub.net/) - Free; Storage: selectable 10 min to 7 days; Features: 30 languages, Telegram bot, HTML-safe viewer.
+- [Ghostmails](https://ghostmails.cc) - Free; Storage: 1 hour, extendable to 24 hours; Features: attachments, no registration, receive-only, 10 languages.
 
 ### Open Source Software
 
@@ -64,6 +65,7 @@ Phone-side counterpart to disposable email — same use case (avoid handing out 
 
 - [Mailcheck](https://www.mailcheck.ai) - API to check if an email address is a known disposable email address.
 - [disposable-list-audit](https://github.com/yasaiiko/disposable-list-audit) - Weekly check of which open disposable-email blocklists also block forwarding/relay services (SimpleLogin, addy.io, Firefox Relay, DuckDuckGo, Apple Hide My Email).
+- [Disposable Email Checker](https://ghostmails.cc/disposable-email-checker) - Checks a domain against three open disposable-email blocklists, entirely in the browser.
 - [Track Awesome List](https://www.trackawesomelist.com) - Get the latest updates.
 
 ## License
