@@ -38,6 +38,7 @@
 - [SimpleLogin](https://simplelogin.io) - Free/paid; Features: 10 aliases, custom domain (paid). ([GitHub](https://github.com/simple-login))
 - [NoEmail.cc](https://noemail.cc/fwd) - Free; Features: one alias, multiple domains.
 - [Shitmail](https://www.shitmail.org) - Free; Up to 3 months.
+- [anon.li](https://anon.li) - Free/paid; Features: 10 aliases (free), replies through the alias, custom domains, **PGP-encrypted forwarding**, tracker removal, **API**. ([GitHub](https://github.com/anondotli/anon.li))
 
 ### Open Source Software
 
