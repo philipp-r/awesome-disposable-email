@@ -68,6 +68,7 @@ Phone-side counterpart to disposable email — same use case (avoid handing out 
 - [Mailcheck](https://www.mailcheck.ai) - API to check if an email address is a known disposable email address.
 - [disposable-list-audit](https://github.com/yasaiiko/disposable-list-audit) - Weekly check of which open disposable-email blocklists also block forwarding/relay services (SimpleLogin, addy.io, Firefox Relay, DuckDuckGo, Apple Hide My Email).
 - [Disposable Email Checker](https://ghostmails.cc/disposable-email-checker) - Checks a domain against three open disposable-email blocklists, entirely in the browser.
+- [Disposable Email Checker API](https://rapidapi.com/jkl921102/api/disposable-email-checker18) - RapidAPI that flags disposable/temp emails, role accounts, typo suggestions, and MX records via DNS-over-HTTPS. No SMTP probing.
 - [Track Awesome List](https://www.trackawesomelist.com) - Get the latest updates.
 
 ## License
